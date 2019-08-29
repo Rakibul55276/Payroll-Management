@@ -14,3 +14,7 @@ Here,
     Admin set the salary and payment with print receipt.  
     
     Employee can mark attendance.
+admin Id: admin
+admin password :admin.
+
+refer to the SQL file.
